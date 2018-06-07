@@ -34,6 +34,8 @@ return code of 200.
 curl -v -X GET http://localhost:8000/ehlo
 ```
 
+* What? `ehlo` is an old-skool way to say hello (via TELNET) to SMTP servers :)
+
 2. Authenticate
  
 Use browser, perferably using an private or incognito tab/window, and go to
